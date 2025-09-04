@@ -399,64 +399,7 @@
       "name": "Sticky Note5"
     }
   ],
-  "pinData": {
-    "Actualizar info de pokemons": [
-      {
-        "json": {
-          "ID": 1,
-          "Nombre": "bulbasaur",
-          "Tipo": "grass",
-          "Sprite Frontal": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
-          "Sprite Posterior": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/1.png"
-        }
-      },
-      {
-        "json": {
-          "ID": 4,
-          "Nombre": "charmander",
-          "Tipo": "fire",
-          "Sprite Frontal": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
-          "Sprite Posterior": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/4.png"
-        }
-      },
-      {
-        "json": {
-          "ID": 25,
-          "Nombre": "pikachu",
-          "Tipo": "electric",
-          "Sprite Frontal": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
-          "Sprite Posterior": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/25.png"
-        }
-      },
-      {
-        "json": {
-          "ID": 150,
-          "Nombre": "mewtwo",
-          "Tipo": "psychic",
-          "Sprite Frontal": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
-          "Sprite Posterior": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
-        }
-      },
-      {
-        "json": {
-          "ID": 151,
-          "Nombre": "mew",
-          "Tipo": "psychic",
-          "Sprite Frontal": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
-          "Sprite Posterior": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/151.png"
-        }
-      },
-      {
-        "json": {
-          "ID": 152,
-          "Nombre": "chikorita",
-          "Tipo": "grass",
-          "Sprite Frontal": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png",
-          "Sprite Posterior": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/152.png"
-        }
-      }
-    ]
-  },
+  "pinData": {},
   "connections": {
     "Click": {
       "main": [
@@ -540,7 +483,7 @@
   "settings": {
     "executionOrder": "v1"
   },
-  "versionId": "f836a5c6-70ee-4c7c-a79e-75be28650719",
+  "versionId": "49c19787-4e33-4a33-80d4-faa43efa239b",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "b385f5b6ab052e2a115aeddc69145cdb86470a40098540706cedfd7108a42f8b"
